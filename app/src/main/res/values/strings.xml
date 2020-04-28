@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimeListAPK2</string>
+    <string name="navigation_open">Navigation Open</string>
+    <string name="navigation_close">Navigation Close</string>
+</resources>
